@@ -1,0 +1,44 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://static-cdn.jtvnw.net/emoticons/v2/301208842/default/dark/3.0",
+        "DisableIconText": false,
+        "IconPosition": 3,
+        "IconTextColor": 0,
+        "OpenOnStart": false,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Willkommen",
+          "title1": "Herzlich  Willkommen auf dem ASA-Community-Server Grisus Terra Mirabili!",
+          "text1": "Bitte vergesst nicht eure Base-Koordinaten im Discord einzutragen",
+          "imageurl": "https://cdn.discordapp.com/attachments/861311181612777522/1172150690563510342/Vers_2.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "Regeln",
+          "title1": "INI settings:",
+          "text1": "Die Regeln findet ihr auf dem Discord, Link ist unten",
+          "imageurl": "https://cdn.discordapp.com/attachments/861311181612777522/1172150690563510342/Vers_2.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.com/invite/zvRXYbVMav"
+        }
+      }
+    ]
+  }
+}
