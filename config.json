@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "Willkommen",
           "title1": "\n\nHerzlich  Willkommen auf dem ASA-Community-Server Grisus Terra Mirabili!",
-          "text1": "\n                                                                  Bitte vergesst nicht eure Base-Koordinaten im Discord einzutragen,\n                                                                  Euer Admin-Team\n",
+          "text1": "\n                                                                       Bitte vergesst nicht eure Base-Koordinaten im Discord einzutragen,\n                                                                       Euer Admin-Team",
           "imageurl": "https://i.imgur.com/fZ3EoAi.jpg"
         }
       },
@@ -27,7 +27,7 @@
           "layout": 1,
           "buttontext": "Regeln",
           "title1": "Discordpflicht!",
-          "text1": "                                                                  Die Regeln findet ihr auf dem Discord, Link ist unten",
+          "text1": "                                                                                Die Regeln findet ihr auf dem Discord, Link ist unten",
           "imageurl": "https://i.imgur.com/fZ3EoAi.jpg"
         }
       }
