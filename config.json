@@ -17,8 +17,8 @@
         "tab1": {
           "layout": 1,
           "buttontext": "Willkommen",
-          "title1": "Herzlich  Willkommen auf dem ASA-Community-Server Grisus Terra Mirabili!",
-          "text1": "Bitte vergesst nicht eure Base-Koordinaten im Discord einzutragen",
+          "title1": "\n\nHerzlich  Willkommen auf dem ASA-Community-Server Grisus Terra Mirabili!",
+          "text1": "                               Bitte vergesst nicht eure Base-Koordinaten im Discord einzutragen",
           "imageurl": "https://i.imgur.com/fZ3EoAi.jpg"
         }
       },
