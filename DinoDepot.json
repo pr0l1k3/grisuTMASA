@@ -14,6 +14,21 @@
                     ]
                 }
             ]
+        },
+        {
+            "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP'",
+            "produces": [
+                {
+                    "intervalSeconds": 10,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Hesperonis_Golden.PrimalItemConsumable_Egg_Hesperonis_Golden'"
+                    ],
+                    "alternateItems": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey'"
+                    ]
+                }
+            ]
         }
     ]
 }
