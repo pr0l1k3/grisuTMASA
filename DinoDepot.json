@@ -1,7 +1,7 @@
 {
     "production": [
         {
-            "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP'",
+            "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP'",
             "produces": [
                 {
                     "intervalSeconds": 10,
