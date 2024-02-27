@@ -4,7 +4,7 @@
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP'",
             "produces": [
                 {
-                    "intervalSeconds": 10,
+                    "intervalSeconds": 20,
                     "alternateItemChance": 0.05,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'"
